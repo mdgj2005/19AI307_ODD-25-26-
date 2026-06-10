@@ -19,8 +19,8 @@ To write and execute a Java program that prints a message on the console.
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: Stephen raj Y
-RegisterNumber: 212223230217
+Developed by: M.Gokul Anand
+RegisterNumber: 212223040049
 */
 ```
 
